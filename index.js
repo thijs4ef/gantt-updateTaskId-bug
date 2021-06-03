@@ -89,7 +89,7 @@ export class Editing extends SampleBase {
           }}
         >
           {' '}
-          Make the gantt crash task 1{' '}
+          Make the gantt crash task 1 (No Predecessor){' '}
         </ButtonComponent>
         <ButtonComponent
           onClick={() => {
@@ -97,7 +97,7 @@ export class Editing extends SampleBase {
           }}
         >
           {' '}
-          Make the gantt crash task 2{' '}
+          Make the gantt crash task 2 (No Predecessor){' '}
         </ButtonComponent>
         <ButtonComponent
           onClick={() => {
